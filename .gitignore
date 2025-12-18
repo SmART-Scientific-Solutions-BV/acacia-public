@@ -1,0 +1,12 @@
+*.*
+!.gitignore
+!.md
+!*.m
+!*.h
+!*.c
+!*.cpp
+!*.hpp
+!*.java
+!*.py
+!CMakeLists.txt
+!functionSignatures.json
